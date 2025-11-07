@@ -1,6 +1,6 @@
 # ☠ About Me:
 <h1 align="center">Hi 👋, I'm Ashok</h1>
-<h3 align="center">Currently Trying to know more about this tech world.</h3>
+<h3 align="center">Currently Trying to know more and work with AI.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashokininternet&label=Profile%20views&color=0e75b6&style=flat" alt="ashokininternet" /> </p>
 
