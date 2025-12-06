@@ -2,7 +2,7 @@
 
 ###
 
-<h1 align="center">Currently Trying to know more about AI.</h1>
+<h1 align="center">A Idiot admires complexity, whereas a Genius admires simplicity..</h1>
 
 ###
 
