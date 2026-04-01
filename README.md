@@ -1,65 +1,129 @@
-<p align="left">☠ About Me:</p>
-
-###
-
-<h1 align="center">A Idiot admires complexity, where as a Genius admires simplicity..</h1>
-
-###
-
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="60" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="60" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="60" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="60" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="60" alt="chrome logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" height="60" alt="fedora logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="60" alt="gimp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="60" alt="windows8 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" height="60" alt="insomnia logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg" height="60" alt="inkscape logo"  />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a2e&height=200&section=header&text=Ashok%20S.R&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Code.%20Break.%20Learn.%20Repeat.&descAlignY=58&descSize=18&descColor=aaaaaa" />
+
 </div>
 
-###
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1500&color=FFFFFF&center=true&vCenter=true&width=750&lines=An+idiot+admires+complexity...;...a+genius+admires+simplicity.;." alt="Typing SVG" />
+
+</div>
+
+---
+
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=YOUR_GITHUB_USERNAME.YOUR_GITHUB_USERNAME&left_color=black&right_color=grey" />
+
+## `> whoami`
+
+```python
+ashok = {
+    "name"        : "Ashok S.R",
+    "role"        : "Teen Developer & Tech Hobbyist",
+    "philosophy"  : "Simplicity over complexity. Always.",
+    "currently"   : "Exploring new tech & building cool stuff",
+    "contact"     : "rajalekshmykomalam983@gmail.com",
+    "fun_fact"    : "I break things just to understand how they work 🔧"
+}
+```
+
+---
+
+## 🛠 Tech Stack
 
 <div align="center">
-  <a href="https://discord.com/channels/ashok_106" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  </a>
-  <a href="rajalekshmykomalam983@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
-</div>
-    
-###
 
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=py,js,c,html,css,bash" height="50" />
+
+**Frameworks & Tools**
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,mysql,git,vscode,arduino" height="50" />
+
+**Environment & Design**
+
+<img src="https://skillicons.dev/icons?i=linux,github" height="50" />
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" height="50" alt="fedora" />
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="50" alt="gimp" />
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg" height="50" alt="inkscape" />
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="50" alt="canva" />
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" height="50" alt="insomnia" />
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=58a6ff&text_color=c9d1d9&include_all_commits=true&count_private=true" height="180" />
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9" height="180" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=ffffff" height="180" />
+
+</div>
+
+---
+
+## 🚀 Projects
+
+> These are pinned on my profile — check them out below ↓
+
+| Project | Description | Stack | Live |
+|---|---|---|---|
+| 🔢 **[Arithmatica](https://github.com/Ashokininternet/Arithmatica)** | A web-based math & physics calculator — covers equations, trigonometry, optics, and more | HTML · JS · CSS | [▶ Live](https://ashokininternet.github.io/Arithmatica/main.html) |
+| 🔗 **[LogCoin](https://github.com/Ashokininternet/LogCoin)** | A minimal blockchain implementation in pure JavaScript — built to understand how it actually works | JavaScript | — |
+| 🎨 **[Kailas](https://github.com/Ashokininternet/Kailas)** | A React-based artist portfolio site | React · JS · CSS | [▶ Live](https://ashokininternet.github.io/Kailas/) |
+
+*Pin your repos on GitHub and they'll show up automatically below this README on your profile.*
+
+---
+
+## 🐍 Contribution Graph
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Ashokininternet/Ashokininternet/output/github-contribution-grid-snake-dark.svg" />
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://discord.com/users/ashok_106" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-ashok__106-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:ashok.106sr@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-ashok.106sr-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://www.youtube.com/@Me_Ashok" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-@Me__Ashok-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://steamcommunity.com/id/ashok_106" target="_blank">
+  <img src="https://img.shields.io/badge/Steam-Ashok__106-1b2838?style=for-the-badge&logo=steam&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0f0f0f&height=120&section=footer" />
+
+</div>
