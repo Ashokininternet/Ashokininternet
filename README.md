@@ -22,7 +22,7 @@ ashok = {
     "role"        : "Teen Developer & Tech Hobbyist",
     "philosophy"  : "Simplicity over complexity. Always.",
     "currently"   : "Exploring new tech & building cool stuff",
-    "contact"     : "rajalekshmykomalam983@gmail.com",
+    "contact"     : "ashok.106sr@gmail.com",
     "fun_fact"    : "I break things just to understand how they work 🔧"
 }
 ```
