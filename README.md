@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1500&color=FFFFFF&center=true&vCenter=true&width=750&lines=An+idiot+admires+complexity...;...a+genius+admires+simplicity.;." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1500&color=FFFFFF&center=true&vCenter=true&width=750&lines=An+idiot+admires+complexity...;...a+genius+admires+simplicity.;" alt="Typing SVG" />
 
 </div>
 
@@ -19,7 +19,7 @@
 ```python
 ashok = {
     "name"        : "Ashok S.R",
-    "role"        : "Teen Developer & Tech Hobbyist",
+    "role"        : "Student & Tech Hobbyist",
     "philosophy"  : "Simplicity over complexity. Always.",
     "currently"   : "Exploring new tech & building cool stuff",
     "contact"     : "ashok.106sr@gmail.com",
@@ -66,7 +66,7 @@ ashok = {
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=ffffff" height="180" />
+<img src="https://streak-stats.demolab.com?user=ashokininternet&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=ffffff" height="180" />
 
 </div>
 
