@@ -20,7 +20,7 @@
 ashok = {
     "name"        : "Ashok S.R",
     "role"        : "Student & Tech Hobbyist",
-    "philosophy"  : "Simplicity over complexity. Always.",
+    "philosophy"  : "Any thing that can be written in JavaScript, will eventually be written in JavaScript.",
     "currently"   : "Exploring new tech & building cool stuff",
     "contact"     : "ashok.106sr@gmail.com",
     "fun_fact"    : "I break things just to understand how they work 🔧"
