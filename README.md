@@ -35,7 +35,7 @@ ashok = {
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=py,js,c,html,css,bash" height="50" />
+<img src="https://skillicons.dev/icons?i=py,js,ts,c,html,css,bash" height="50" />
 
 **Frameworks & Tools**
 
