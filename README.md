@@ -82,18 +82,7 @@ ashok = {
 | 🔗 **[LogCoin](https://github.com/Ashokininternet/LogCoin)** | A minimal blockchain implementation in pure JavaScript — built to understand how it actually works | JavaScript | — |
 | 🎨 **[Kailas](https://github.com/Ashokininternet/Kailas)** | A React-based artist portfolio site | React · JS · CSS | [▶ Live](https://kailas-8xu.pages.dev./) |
 
-*Pin your repos on GitHub and they'll show up automatically below this README on your profile.*
 
----
-
-## 🐍 Contribution Graph
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Ashokininternet/Ashokininternet/output/github-contribution-grid-snake-dark.svg" />
-</div>
-
----
 
 ## 🤝 Connect With Me
 
