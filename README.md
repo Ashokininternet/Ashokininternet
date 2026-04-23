@@ -5,8 +5,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1500&color=FFFFFF&center=true&vCenter=true&width=750&lines=An+idiot+admires+complexity...;...a+genius+admires+simplicity.;" alt="Typing SVG" />
-
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1500&color=73B6FF&center=true&vCenter=true&width=750&lines=An+idiot+admires+complexity...;...a+genius+admires+simplicity." alt="Typing SVG" />
 </div>
 
 ---
