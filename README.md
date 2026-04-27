@@ -31,7 +31,7 @@ ashok = {
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -61,7 +61,7 @@ ashok = {
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -86,7 +86,7 @@ ashok = {
 
 
 
-## 🤝 Connect With Me
+## Connect With Me
 
 <div align="center">
 
