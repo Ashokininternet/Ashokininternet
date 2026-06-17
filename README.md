@@ -25,7 +25,7 @@ ashok = {
     "philosophy"  : "Any thing that can be written in JavaScript, will eventually be written in JavaScript.",
     "currently"   : "Exploring new tech & building cool stuff",
     "contact"     : "ashok.106sr@gmail.com",
-    "fun_fact"    : "I break things just to understand how they work 🔧"
+    "fun_fact"    : "I,m just a guy who is a programmer for fun"
 }
 ```
 
