@@ -38,6 +38,7 @@ ashok = {
 **Languages**
 
 <img src="https://skillicons.dev/icons?i=py,js,ts,c,html,css,bash" height="50" />
+<img src="https://img.shields.io/badge/COBOL-%23005A9C?style=for-the-badge&logo=ibm&logoColor=white" height="50" />
 
 **Frameworks & Tools**
 
