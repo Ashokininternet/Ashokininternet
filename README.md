@@ -43,6 +43,8 @@ ashok = {
 **Frameworks & Tools**
 
 <img src="https://skillicons.dev/icons?i=react,nodejs,mysql,git,vscode,arduino" height="50" />
+&nbsp;
+<img src="https://cdn.simpleicons.org/n8n" height="50" alt="n8n" />
 
 **Environment & Design**
 
