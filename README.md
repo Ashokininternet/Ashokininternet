@@ -21,7 +21,7 @@
 ```python
 ashok = {
     "name"        : "Ashok S.R",
-    "role"        : "Student & Tech Hobbyist",
+    "role"        : "Batman",
     "philosophy"  : "Any thing that can be written in JavaScript, will eventually be written in JavaScript.",
     "currently"   : "Inside the terminal",
     "contact"     : "ashok.106sr@gmail.com",
