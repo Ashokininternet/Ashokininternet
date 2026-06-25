@@ -23,9 +23,9 @@ ashok = {
     "name"        : "Ashok S.R",
     "role"        : "Student & Tech Hobbyist",
     "philosophy"  : "Any thing that can be written in JavaScript, will eventually be written in JavaScript.",
-    "currently"   : "Exploring new tech & building cool stuff",
+    "currently"   : "Inside the terminal",
     "contact"     : "ashok.106sr@gmail.com",
-    "fun_fact"    : "I,m just a guy who is a programmer for fun"
+    "fun_fact"    : "Use :q to exit vim (vim is simple)"
 }
 ```
 
