@@ -69,12 +69,10 @@ ashok = {
 ## GitHub Stats
 
 <div align="center">
-
-
+  
 <br/>
-
-<img src="https://streak-stats.demolab.com?user=ashokininternet&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=ffffff" height="180" />
-
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=ashokininternet&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=ffffff" height="180" />
+  
 </div>
 
 ---
