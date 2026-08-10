@@ -77,15 +77,15 @@ ashok = {
 
 ---
 
-## 🚀 Projects
+## Projects
 
 > These are pinned on my profile — check them out below ↓
 
 | Project | Description | Stack | Live |
 |---|---|---|---|
-| 🔢 **[Arithmatica](https://github.com/Ashokininternet/Arithmatica)** | A web-based math & physics calculator — covers equations, trigonometry, optics, and more | HTML · JS · CSS | [▶ Live](https://ashokininternet.github.io/Arithmatica/main.html) |
-| 🔗 **[LogCoin](https://github.com/Ashokininternet/LogCoin)** | A minimal blockchain implementation in pure JavaScript — built to understand how it actually works | JavaScript | — |
-| 🎨 **[Kailas](https://github.com/Ashokininternet/Kailas)** | A React-based artist portfolio site | React · JS · CSS | [▶ Live](https://kailas-8xu.pages.dev./) |
+| **[Arithmatica](https://github.com/Ashokininternet/Arithmatica)** | A web-based math & physics calculator — covers equations, trigonometry, optics, and more | HTML · JS · CSS | [https://ashokininternet.github.io/Arithmatica/main.html](https://ashokininternet.github.io/Arithmatica/main.html) |
+| **[LogCoin](https://github.com/Ashokininternet/LogCoin)** | A minimal blockchain implementation in pure JavaScript — built to understand how it actually works | JavaScript | — |
+| **[Kailas](https://github.com/Ashokininternet/Kailas)** | A React-based artist portfolio site | React · JS · CSS | [https://kailas-8xu.pages.dev./](https://kailas-8xu.pages.dev./) |
 
 
 
