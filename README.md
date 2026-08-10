@@ -21,9 +21,9 @@
 ```python
 ashok = {
     "name"        : "Ashok S.R",
-    "role"        : "Batman",
+    "role"        : "Touch no grass",
     "philosophy"  : "Any thing that can be written in JavaScript, will eventually be written in JavaScript.",
-    "currently"   : "Inside the terminal",
+    "currently"   : "Using `neofetch` for the 25th time this day",
     "contact"     : "ashok.106sr@gmail.com",
     "fun_fact"    : "Use :q to exit vim (vim is simple)"
 }
